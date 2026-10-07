@@ -38,7 +38,7 @@ Ajoutez votre ligne à la fin de cette liste, en respectant le format.
 - Lilia Sfaxi — enseignante
 
 <!-- ===== AJOUTEZ VOTRE NOM CI-DESSOUS ===== -->
-- Zakaria Ben Salah — étudiant
+- Zakaria Ben Salah — étudiant L1 MIA
 
 
 <!-- ===== FIN DES CONTRIBUTEURS ===== -->
